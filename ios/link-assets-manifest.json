@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/Fonts/Gupter-Bold.ttf",
+      "sha1": "aa996a51c71dfccb0ed93665079def57360e14e4"
+    },
+    {
+      "path": "src/assets/Fonts/index.tsx",
+      "sha1": "86c1a4cdf9691e75af18f1429868ea64d74def1e"
+    }
+  ]
+}
